@@ -1,5 +1,5 @@
 # Calculo IMC
-Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android.
+Calculo IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android.
 
 
 
